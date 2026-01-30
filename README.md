@@ -2,7 +2,7 @@
 
 A client-side Fabric mod that automatically makes your player crouch when approaching the edge of a block. Perfect for preventing accidental falls while building or exploring!
 
-**Note:** This mod is built for Minecraft **1.21.1** (the most stable version with best mod support).
+**Note:** This mod is built for Minecraft **1.21.1** .
 
 ## 🎮 Features
 
